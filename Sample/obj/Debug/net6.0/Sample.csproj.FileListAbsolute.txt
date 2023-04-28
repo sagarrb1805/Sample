@@ -1,0 +1,15 @@
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\bin\Debug\net6.0\Sample.exe
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\bin\Debug\net6.0\Sample.deps.json
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\bin\Debug\net6.0\Sample.runtimeconfig.json
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\bin\Debug\net6.0\Sample.dll
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\bin\Debug\net6.0\Sample.pdb
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.csproj.AssemblyReference.cache
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.AssemblyInfoInputs.cache
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.AssemblyInfo.cs
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.dll
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\refint\Sample.dll
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.pdb
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\Sample.genruntimeconfig.cache
+C:\Users\LL672YN\OneDrive - EY\Desktop\frontend\Sample\Sample\obj\Debug\net6.0\ref\Sample.dll
