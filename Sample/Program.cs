@@ -13,6 +13,7 @@
         if (str == reverseString(str)) {
             return true;
         }
+
         return false;
     }
 }
